@@ -1,0 +1,17 @@
+---
+title: "p8105_hw4_ssb2231"
+author: "Satya Batna"
+date: "2025-10-29"
+output: html_document
+---
+
+# Satya Batna (MPH Candidate)
+
+MPH Student in Epidemiology at Columbia Mailman. Department of Epidemiology with a certificate in Applied Datascience and Biostatics. 
+
+Interested in cancer epidemiology with a focus on nutrition and social determinanats of health. 
+
+Email: ssb2231@columbia.edu  
+[My GitHub](https://github.com/<Satya-Batna>)
+
+
