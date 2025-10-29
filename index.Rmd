@@ -7,7 +7,7 @@ output: html_document
 
 # Satya Batna (MPH Candidate)
 
-MPH Student in Epidemiology at Columbia Mailman. Department of Epidemiology with a certificate in Applied Datascience and Biostatics. 
+MPH Student in Epidemiology at Columbia Mailman. Department of Epidemiology with a certificate in Applied Datascience and Biostatistics. 
 
 Interested in cancer epidemiology with a focus on nutrition and social determinanats of health. 
 
