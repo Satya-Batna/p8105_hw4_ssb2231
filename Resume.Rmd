@@ -12,6 +12,8 @@ output: html_document
 # Experience
 - **Research Assistant**, Department of Epidemiology  
   - Breast Cancer Family Registry work: Data cleaning in SAS + R, REDCap entry, recruitment processes, literature reviews.
+  - **Research Assistant**, Department of Population and Family Health
+  
 
 # Skills
 SAS - Intermediate 

@@ -4,7 +4,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume.html   # ✅ lower-case
+      href: resume.html 
   right:
     - icon: fa-github
       href: https://github.com/satya-batna
