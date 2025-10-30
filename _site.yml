@@ -11,7 +11,10 @@ navbar:
       href: https://github.com/satya-batna
     - text: "Email"
       href: mailto:ssb2231@columbia.edu
-output_dir: "docs"
+
+output_dir: "_site"
+
 output:
   html_document:
     theme: readable
+

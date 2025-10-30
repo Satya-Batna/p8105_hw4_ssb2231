@@ -5,6 +5,8 @@ date: "2025-10-29"
 output: html_document
 ---
 
+
+
 # Education
 - **Columbia University** — MPH Epidemiology (Expected May 2026)
 - **University of Texas at Austin** — B.S. Biochemistry (May 2024)
