@@ -1,12 +1,17 @@
+name: "p8105_hw4_ssb2231"
 navbar:
   title: "Satya Batna"
   left:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume.html 
+      href: resume.html
   right:
     - icon: fa-github
       href: https://github.com/satya-batna
     - text: "Email"
       href: mailto:ssb2231@columbia.edu
+output_dir: "docs"
+output:
+  html_document:
+    theme: readable
